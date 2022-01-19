@@ -12,3 +12,4 @@ def loe_failist(f:str,l:list):
         mas.append(rida.strip())
     fail.close()
     return mas
+
